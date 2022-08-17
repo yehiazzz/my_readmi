@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Yehia Zakaria <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<h3 align="center">AI Enthusiast, Open-source Contributor and Life-Long Learner</h3>
+<h3 align="center">Full Stack Web Develpoer </h3>
 
 ## Dynamic Quotes 📜:
 
