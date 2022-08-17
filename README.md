@@ -1,6 +1,8 @@
 <h1 align="center">Hey there, I'm Yehia Zakaria <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <h3 align="center">Full Stack Web Develpoer </h3>
+<h4 align="center"> Full Stack Developer with 3+ years of hands-on experience designing, developing, and implementing applications and solutions  using a range of technologies and programming languages. with Strong background in project management and customer relations.customer relations. </h3>
+
 
 ## Dynamic Quotes 📜:
 
@@ -29,7 +31,7 @@
 <h3 align="left">Languages:</h3>
 
 - Arabic
-- English 🔤
+- English 
 
 <br><br>
 
@@ -74,7 +76,7 @@
     </div>
     <br><br>
 
-## 💡 Projects<br>
+## 💡 Projects<br><br> 
 
 - [Portfolio](https://yehiazzz.com/)
 - [PHI-Portal](https://phi.edu.eg/)
