@@ -50,25 +50,29 @@
 - PHP, Node.js, Laravel, Express
 - My Sql , postgresql
 - Jasmine.js
-- Git, Zoom, Photoshopsh 🔤
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
-<br><br>
+- Git, Zoom, Photoshopsh
+    <div>
+     <img src="Images/prog/HTML5.png" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+     <img src="Images/prog/css-3-.png" title="css" alt="css" width="40" height="40"/>&nbsp;
+     <img src="Images/prog/js.png" title="js" alt="js" width="40" height="40"/>&nbsp;
+     <img src="Images/prog/ts.png" title="ts" alt="ts" width="40" height="40"/>&nbsp;
+     <img src="Images/prog/jquery-.jpg" title="jquery" alt="jquery" width="40" height="40"/>&nbsp;
+     <img src="Images/prog/json.png" title="json" alt="json" width="40" height="40"/>&nbsp;
+     <img src="Images/prog/bootstrap.jpg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
+     <img src="Images/prog/Tailwind.svg.png" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
+     <img src="Images/prog/Vue_2.svg.png" title="Vue_2" alt="Vue_2" width="40" height="40"/>&nbsp;
+     <img src="Images/prog/PHP.png" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
+     <img src="Images/prog/nodejs.png" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp;
+     <img src="Images/prog/Laravel.png" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
+     <img src="Images/prog/MySQL.png" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+     <img src="Images/prog/postgresql.png" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
+     <img src="Images/prog/Git_icon.svg.png" title="Git_icon" alt="Git_icon" width="40" height="40"/>&nbsp;
+     <img src="Images/prog/github.png" title="github" alt="github" width="40" height="40"/>&nbsp;
+     <img src="Images/prog/Photoshop.png" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
+     <img src="Images/prog/Zoom.png" title="Zoom" alt="Zoom" width="40" height="40"/>&nbsp;
+
+    </div>
+    <br><br>
 
 ## 💡 Projects<br>
 
