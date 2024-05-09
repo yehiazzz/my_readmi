@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Yehia Zakaria <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <h3 align="center">Full Stack Web Develpoer </h3>
-<h4 align="center"> Full Stack Developer with 3+ years of hands-on experience designing, developing, and implementing applications and solutions  using a range of technologies and programming languages. with Strong background in project management and customer relations. </h3>
+<h4 align="center"> Full Stack Developer with 5+ years of hands-on experience designing, developing, and implementing applications and solutions  using a range of technologies and programming languages. with Strong background in project management and customer relations. </h3>
 
 
 ## Dynamic Quotes 📜:
@@ -24,7 +24,6 @@
 
 - Front End 📊
 - Back End 📊
-- Data Structures And Algorithms 💻
 - Data Analysis 💻
 - Database
 
@@ -47,7 +46,7 @@
 - CSS3, SCSS, SASS
 - Material-ui, twiland , Bootstrap
 - JavaScript, TypeScript , JQuery
-- Vue, Vuex, Vue-Router
+- Vue
 - C++
 - PHP, Node.js, Laravel, Express
 - My Sql , postgresql
@@ -79,12 +78,20 @@
 ## 💡 Projects<br><br> 
 
 - [Portfolio](https://yehiazzz.com/)
-- [PHI-Portal](https://phi.edu.eg/)
-- [PHI-LMS](https://www.elearning.phi.edu.eg/)
+- [PHI-University-Portal](https://phi.edu.eg/)
+- [PHI-University-LMS](https://www.lms.phi.edu.eg/)
 - [PHI-HR](https://hr.phi.edu.eg/)
-- [CPS-Portal](https://www.cps-education.com/)
-- [CPS-LMS](http://elearning.cps-education.com/)
-- [CPIS-Portal](http://cpischools.com/)
+- [CPS-School-Portal](https://www.cps-education.com/)
+- [CPS-School-LMS](http://elearning.cps-education.com/)
+- [CPIS-School-Portal](https://cpischools.com/)
+- [Designatix](https://designatix.net/)
+- [Grade A Acadey-ku](https://thegradea.com/)
+- [Grade A Acadey-QA](https://qa.thegradea.com/)
+- [Omrancom-Contracting-co .KSA](https://omrancom.com/)
+- [Omrancom-Expo-co .KSA](https://expo.omrancom.com/)
+- [Coding-Acadey-kids .USA](https://codingandmoreforkids.com/)
+ 
+
 
 <img src ="Images/social_dashboard.svg" align = "left" width = 50%>
 <div>
